@@ -1,0 +1,11 @@
+body{
+    background-color: #8cd3ff;
+}
+h1{
+    color: aliceblue;
+}
+header{
+    height: 30px;
+    width: max-content;
+    background-color: aliceblue;
+}
